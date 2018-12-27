@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SimpleWebBrowser</string>
+    <string name="check_connection">Please check internet connection</string>
+</resources>
